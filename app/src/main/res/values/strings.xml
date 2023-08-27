@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub User by Ryan</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="follower_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="repository">Repository</string>
+    <string name="title_activity_detail">Detail User</string>
+    <string name="tab_text_1">Followes</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_followers">Tidak ada followers</string>
+    <string name="content_following">Tidak ada following</string>
+    <string name="contentDescription">GIT CAT LOGO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
